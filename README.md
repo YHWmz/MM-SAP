@@ -11,7 +11,7 @@ MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness 
 ## Overview
 
 <p align="center">
-<img src="./imgs/total_image.jpeg" alt="Data Composition" width="650" height="580">
+<img src="./imgs/overview.jpeg" alt="Data Composition" width="650" height="580">
 
 ## Leaderboard
 
