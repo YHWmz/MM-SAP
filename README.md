@@ -11,12 +11,12 @@ MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness 
 ## Overview
 
 <p align="center">
-<img src="./imgs/overview.jpeg" alt="Data Composition" width="650" height="580">
+<img src="./imgs/overview.jpeg" alt="Data overview" width="650" height="580">
 
 ## Leaderboard
 
 <p align="center">
-<img src="./imgs/detail_results.jpeg" alt="Data Composition" width="685" height="700">
+<img src="./imgs/detail_results.jpeg" alt="result" width="685" height="700">
 
 
 | **Rank** | **Models**           | **BasicVisQA**   | **KnowVisQA**     | **BeyondVisQA** | **Total**        |
@@ -29,6 +29,17 @@ MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness 
 | 6        | LLaVA-13b            | 68.25 ± 1.56     | 58.11 ± 1.43      | 34.02 ± 0.90    | 53.81 ± 0.39     |
 | 7        | ShareGPT-4V-13b      | 68.00 ± 1.74     | 60.29 ± 1.11      | 30.43 ± 0.54    | 53.22 ± 0.60     |
 | 8        | LLaVA-7b             | 62.00 ± 0.85     | 54.23 ± 1.92      | 30.27 ± 0.85    | 49.12 ± 0.60     |
+
+## Data Examples
+<p align="center">
+<img src="./imgs/BasicVisQA.jpg" alt="BasicVisQA" width="685" height="700">
+
+<p align="center">
+<img src="./imgs/KnowVisQA.jpg" alt="KnowVisQA" width="685" height="700">
+
+<p align="center">
+<img src="./imgs/BeyongVisQA.jpeg" alt="BeyongVisQA" width="685" height="700">
+
 
 ## Citation
 ```
