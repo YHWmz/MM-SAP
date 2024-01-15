@@ -11,12 +11,12 @@ MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness 
 ## Overview
 
 <p align="center">
-<img src="./imgs/total_image.pdf" alt="Data Composition" width="650" height="580">
+<img src="./imgs/total_image.jpeg" alt="Data Composition" width="650" height="580">
 
 ## Leaderboard
 
 <p align="center">
-<img src="./imgs/detail_results.pdf" alt="Data Composition" width="685" height="700">
+<img src="./imgs/detail_results.jpeg" alt="Data Composition" width="685" height="700">
 
 
 | **Rank** | **Models**           | **BasicVisQA**   | **KnowVisQA**     | **BeyondVisQA** | **Total**        |
