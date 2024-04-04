@@ -43,4 +43,10 @@ MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness 
 
 ## Citation
 ```
+@article{wang2024mm,
+  title={MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception},
+  author={Wang, Yuhao and Liao, Yusheng and Liu, Heyang and Liu, Hongcheng and Wang, Yu and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2401.07529},
+  year={2024}
+}
 ```
