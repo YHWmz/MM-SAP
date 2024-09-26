@@ -3,7 +3,7 @@
 MM-SAP is a benchmark that systematically evaluates the MLLMs’ self-awareness in perception, which refers to their awareness to recognize what they can and cannot know from the given image.
 
 <p align="center">
-   📝 <a href="https://arxiv.org/abs/2401.07529" target="_blank">Paper</a>  
+   📝 <a href="https://arxiv.org/abs/2401.07529" target="_blank">Paper</a>  📝 <a href="https://arxiv.org/abs/2401.07529" target="_blank">Paper</a>  
 
 ## News 🔥🔥🔥
 * **[2024.01.15]** This repo is made public!
